@@ -21,7 +21,7 @@ problem found along the way, where captures go), they defer to your own instruct
 
 ```text
 /plugin marketplace add danielskovli/agent-skills
-/plugin install agent-skills@agent-skills
+/plugin install agent-skills@danielskovli
 ```
 
 **In an agentctl agent definition:** clone this repository and list the skills you want under `skills`, each as
