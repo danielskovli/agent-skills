@@ -1,6 +1,10 @@
 {
   "name": "agent-skills",
   "description": "Skills for building software with agents: a spec-to-pull-request flow, a red team, code quality and acceptance passes, pull request evidence and review.",
-  "author": { "name": "Daniel Skovli", "url": "https://github.com/danielskovli" },
-  "repository": "https://github.com/danielskovli/agent-skills"
+  "author": {
+    "name": "Daniel Skovli",
+    "url": "https://github.com/danielskovli"
+  },
+  "repository": "https://github.com/danielskovli/agent-skills",
+  "license": "MIT"
 }
